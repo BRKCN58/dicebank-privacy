@@ -45,3 +45,4 @@ In the app, **Settings → About & privacy → Delete my leaderboard data** perm
 The app is not directed at children under 13.
 
 **Contact:** brkcnimdt@gmail.com
+
