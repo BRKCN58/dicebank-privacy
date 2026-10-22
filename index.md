@@ -2,10 +2,10 @@
 
 _Son güncelleme / Last updated: 2026-10-22_
 
-## Türkçe                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                    
-  Gerçek parayla kumar içermeyen, eğlence amaçlı zar oyunu. / A just-for-fun dice game with no real-money gambling.                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                            
+## Türkçe
+
+Dice Bank ("uygulama") gerçek parayla kumar içermeyen, eğlence amaçlı bir zar oyunudur. Oyundaki altınlar tamamen sanaldır; satın alınamaz, gerçek paraya veya ödüle çevrilemez.
+
 **Toplanan veriler**
 
 - **Oyuncu adı ve banka bakiyesi:** Çevrim içi sıralamada göstermek için Google Firebase (Cloud Firestore) sunucularında saklanır ve diğer oyuncular tarafından görülebilir.
@@ -47,7 +47,5 @@ In the app, **Settings → About & privacy → Delete my leaderboard data** perm
 The app is not directed at children under 13.
 
 **Contact:** brkcnimdt@gmail.com
-  - [Gizlilik Politikası / Privacy Policy](https://brkcn58.github.io/dicebank-privacy/)                                                                                                                                                                                                                             
-  - İletişim / Contact: brkcnimdt@gmail.com     
 
 google.com, pub-9794946206550261, DIRECT, f08c47fec0942fa0
